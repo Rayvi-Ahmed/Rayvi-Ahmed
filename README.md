@@ -72,4 +72,4 @@ Thanks for visiting my GitHub profile! Let’s create something amazing together
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayvi-ahmed&show_icons=true&locale=en" alt="rayvi-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayvi-ahmed&" alt="rayvi-ahmed" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayvi-ahmed" alt="rayvi-ahmed" /></p>
