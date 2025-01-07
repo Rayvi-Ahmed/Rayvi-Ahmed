@@ -53,7 +53,7 @@ LinkedIn: https://www.linkedin.com/in/mern-stack-rayvi-ahmed-5b13a31a5/
 
 Portfolio: https://clinquant-pie-f5b267.netlify.app/
 
-Email: misbahuddinwe@gmail.com
+Email: misbahuddinweb@gmail.com
 
 Thanks for visiting my GitHub profile! Let’s create something amazing together. 🌟
   
