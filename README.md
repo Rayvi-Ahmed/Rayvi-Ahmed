@@ -1,7 +1,9 @@
 [![MasterHead](https://i.ibb.co.com/Kz24c63/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)](https://Rayvi-Ahmed.io)
-<h1 align="center">Hi 👋, I'm misbah uddin rayvi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="coding" />
+<h1 align="center">Hi 👋, I'm Misbah uddin rayvi</h1>
+<h3 align="center"> Welcome to my GitHub profile! I'm a passionate MERN Stack Developer constantly exploring the dynamic world of software development to build scalable and efficient applications. With a focus on clean code and innovative solutions, I aim to create impactful digital experiences.
+
+</h3>
+<img align="right" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="" />
 
 
 - 🌱 I’m currently learning **NEXTjs, Typescript**
@@ -14,7 +16,59 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Tech Stack </h3>
+<p align='left'>
+  Frontend: React.js, HTML, CSS3, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Databases: MongoDB, MySQL (actively learning advanced concepts)
+
+Languages: JavaScript, TypeScript (in progress)
+
+State Management: Redux
+
+ORM/ODMs: Prisma, Mongoose
+
+Tools: Git, Docker, Jira
+
+Cloud: AWS (learning deployment and management)
+
+</p>
+
+<h3 align="left">⚙️ Currently Learning</h3>
+<p align="left">
+  I believe that continuous learning is the key to growth. Right now, I am diving deeper into:
+
+Next.js: Building server-side rendered applications for better SEO and performance.
+
+TypeScript: Adding type safety to JavaScript for more robust applications.
+
+MySQL: Mastering relational databases for efficient data handling.
+
+Prisma: Simplifying database workflows with an advanced ORM.
+
+Docker: Containerizing applications for seamless deployment.
+
+AWS: Cloud services for scalable and efficient applications.
+
+Jira: Agile project management for better collaboration and efficiency.
+</p>
+
+
+<h3 align='left'>Let's Connect</h3>
+<p align="left">
+I’m always open to collaborating on exciting projects or contributing to open-source initiatives. Feel free to reach out if you’d like to work together or discuss ideas!
+
+LinkedIn: Your LinkedIn Profile
+
+Portfolio: Your Portfolio Website
+
+Email: Your Email Address
+
+Thanks for visiting my GitHub profile! Let’s create something amazing together. 🌟
+  
+</p>
 <p align="left">
 <a href="https://twitter.com/rayviahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayviahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seo-expert-rayvi-ahmed-5b13a31a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seo-expert-rayvi-ahmed-5b13a31a5/" height="30" width="40" /></a>
